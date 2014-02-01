@@ -1,18 +1,18 @@
 # A Collection of FizzBuzz Solutions
 
-### php/canonical.php
+### [php/canonical.php](php/canonical.php)
 
 The classic straightforward PHP solution.
 
-### php/switch.php
+### [php/switch.php](php/switch.php)
 
 Uses a switch statement and the PHP >= 5.4 short array syntax.
 
-### php/for.php
+### [php/for.php](php/for.php)
 
 Uses a for loop with no body.
 
-### php/map.php
+### [php/map.php](php/map.php)
 
 Maps a function over a range.
 
